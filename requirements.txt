@@ -1,0 +1,7 @@
+flask
+flask_ngrok
+sqlalchemy
+flask_login
+erkzeug.security
+flask_wtf
+wtforms
