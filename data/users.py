@@ -5,7 +5,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, BooleanField, SubmitField
 from wtforms.validators import DataRequired
 
-from .db_session import SqlAlchemyBase
+from db_session import SqlAlchemyBase
 
 
 class LoginForm(FlaskForm):
