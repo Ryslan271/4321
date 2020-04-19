@@ -2,6 +2,6 @@ flask
 flask_ngrok
 sqlalchemy
 flask_login
-erkzeug.security
+werkzeug.security
 flask_wtf
 wtforms
